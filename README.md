@@ -1,2 +1,3 @@
-# Até aula 22 - Produto Service 
+Finalizado, frontend no firebase, endereço mfonteles-anglular-crud.web.app
+Falta subir o backend
 
